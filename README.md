@@ -4,7 +4,7 @@ Dash app that walks through a directory of CSVs and locates missing info. Has th
 ## Run Instructions
 ```shell
 #clone
-git clone https://github.com/grantmcc98/trilution_webclient_integration.git
+git clone https://github.com/grantmcc98/tube_upload_app.git
 
 #cd into directory
 cd trilution_webclient_integration
@@ -19,6 +19,5 @@ source .venv/Scripts/activate
 pip install -r requirements.txt
 
 #start app
-set FLASK_APP=main.py
-flask run
+py missing_tube_info_app.py
 ```
