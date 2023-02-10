@@ -4,7 +4,7 @@ Dash app that walks through a directory of CSVs and locates missing info. Has th
 ## Run Instructions
 ```shell
 #clone
-git clone https://github.com/grantmcc98/tube_upload_app.git
+git clone https://github.com/GrantMcConachie/tube_upload_app.git
 
 #cd into directory
 cd trilution_webclient_integration
